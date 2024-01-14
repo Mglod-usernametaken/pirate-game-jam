@@ -1,5 +1,13 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1705185197
-icon.svg::CompressedTexture2D::4749003416557219313::1705185135::1705185135::1::::<><>::
-Node2D.gd::GDScript::-1::1705185135::0::1::::<>Node2D<>::
-node_2d.tscn::PackedScene::7975551004137582590::1705185135::0::1::::<><>::res://Node2D.gd
+::res://::1705219179
+icon.svg::CompressedTexture2D::4749003416557219313::1705217705::1705217705::1::::<><>::
+labirynth.gd::GDScript::-1::1705217705::0::1::::<>Node2D<>::
+labirynth.tscn::PackedScene::4920759411765688995::1705218286::0::1::::<><>::res://labirynth.gd
+Node2D.gd::GDScript::-1::1705218286::0::1::::<>Node2D<>::
+node_2d.tscn::PackedScene::7975551004137582590::1705218286::0::1::::<><>::res://Node2D.gd
+::res://Player/::1705219289
+Player.tscn::PackedScene::3045047950783540088::1705218784::0::1::::<><>::
+::res://Player/graphics/::1705220029
+blue.png::CompressedTexture2D::2036029479622352515::1705220029::1705220052::1::::<><>::
+orange.png::CompressedTexture2D::6487443650431624110::1705220029::1705220052::1::::<><>::
+red.png::CompressedTexture2D::7133133533057181673::1705220029::1705220052::1::::<><>::

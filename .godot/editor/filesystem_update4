@@ -1,5 +1,6 @@
-res://labirynth.tscn
 res://node_2d.tscn
-res://Node2D.gd
-res://labirynth.gd
+res://labirynth.tscn
 res://labitynth.tscn
+res://Node2D.gd
+res://Player/Player.tscn
+res://Player/Player.gd
